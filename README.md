@@ -42,3 +42,4 @@ Future Improvements
 * MySQL/PostgreSQL support
 * URL expiration
 * User authentication
+<img width="905" height="609" alt="image" src="https://github.com/user-attachments/assets/b30edd58-a1a1-43bc-9411-68369191cfb3" />
